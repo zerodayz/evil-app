@@ -1,2 +1,2 @@
-FROM fedora:latest
+FROM busybox:1.29
 EXPOSE 2147483648
