@@ -1,2 +1,2 @@
-FROM openshift4/ose-jenkins
+FROM fedora:latest
 EXPOSE 2147483648
