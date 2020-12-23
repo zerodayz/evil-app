@@ -1,3 +1,2 @@
-FROM centos/ruby-25-centos7
-USER default
+FROM openshift4/ose-jenkins
 EXPOSE 2147483648
